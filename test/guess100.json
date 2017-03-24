@@ -1,0 +1,23 @@
+{
+  "session": {
+    "sessionId": "SessionId.aefa935d-c82a-4d9a-9ea3-cfa960a44349",
+    "application": {
+      "applicationId": "amzn1.ask.skill.02c289f6-9161-4b6d-ac5d-401e0a3c278e"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGQCBPEDKRIRAGXWZFOFJEGAIPXDMAGC3W76HOKZKFXYLCKCBK3O6TNA77VZPUYG6BFWCMRP5JKATU6QSHSOQYPP7VYN4ZSCUINK2PITXKSDOOI4XYSFHZQGWIOAP7OHX5CRHY3RXKJTXMOMVZS6LDFUSE4V7XITACDHUJBC3IH6PJTOPTODNPCSCLFZLT5DIEILP7JUFFXK5ZQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.bf4aecfe-15c4-47a9-a442-7e84854813bd",
+    "locale": "en-US",
+    "timestamp": "2017-01-14T19:18:44Z",
+    "intent": {
+      "name": "DoctorIntent"
+    }
+  },
+  "version": "1.0"
+}

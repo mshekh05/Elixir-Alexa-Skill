@@ -1,0 +1,4 @@
+AboutIntent I'm feeling a bit unwell.
+DiseaseIntent I have symptoms like {Disease}
+DiseaseIntent What should I do when I have {Disease}
+DiseaseIntent I'm feeling {Disease}

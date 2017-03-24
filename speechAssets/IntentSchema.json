@@ -1,0 +1,16 @@
+{
+    "intents": [
+        {
+            "intent": "DiseaseIntent",
+            "slots": [
+                {
+                    "name": "Disease",
+                    "type": "LIST_OF_DISEASES"
+                }
+            ]
+        },
+        {
+            "intent": "AboutIntent"
+        }
+    ]
+}
